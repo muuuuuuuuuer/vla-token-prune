@@ -1,6 +1,6 @@
 # Initial Plan: Spatio-Temporal Visual Token Pruning IP for VLA Policies
 
-Repository: `<GitHub URL of this repo>`
+Repository: https://github.com/muuuuuuuuuer/vla-token-prune
 
 ## Project Team
 
